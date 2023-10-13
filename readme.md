@@ -3,7 +3,7 @@
 # Lab | Customer Analysis Round 7
 
 ### Get the data
-For this lab, we will continue using the .csv file and the Juoyter notebook that you have been using all week.
+For this lab, we will continue using the .csv file and the Jupyter notebook that you have been using all week.
 
 Remember the previous rounds. Follow the steps as shown in previous lectures and try to improve the accuracy of the model. Include both categorical columns in the exercise.
 Some approaches you can try in this exercise:
