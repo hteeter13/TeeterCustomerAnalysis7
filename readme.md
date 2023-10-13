@@ -2,7 +2,8 @@
 
 # Lab | Customer Analysis Round 7
 
-For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
+### Get the data
+For this lab, we will continue using the .csv file and the Juoyter notebook that you have been using all week.
 
 Remember the previous rounds. Follow the steps as shown in previous lectures and try to improve the accuracy of the model. Include both categorical columns in the exercise.
 Some approaches you can try in this exercise:
@@ -12,19 +13,16 @@ Some approaches you can try in this exercise:
 - use a different ratio of train test split
 - use the transformation on numerical columns which align it more towards a normal distribution
 
-### Get the data
-
-We are using the `marketing_customer_analysis.csv` file.
 
 ### Dealing with the data
 
-Already done in rounds 2 to 7.
+Already done in previous rounds.
 
-**Bonus**: Build a function, from round 2 and round 7, to clean and process the data.
+**Bonus**: Build a function to clean and process the data.
 
 ### Explore the data
 
-Done in the round 3.
+Already done.
 
 ### Modeling
 
