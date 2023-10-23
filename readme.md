@@ -21,6 +21,7 @@ Description:
 
 - Try to improve the linear regression model.  Remember the previous rounds. Follow the steps as shown in previous lectures and try to improve the accuracy of the model.
 <br/>
+
 **Some approaches you can try in this exercise:**
 
 - use the concept of multicollinearity and remove insignificant variables
