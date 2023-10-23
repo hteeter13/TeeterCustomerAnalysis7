@@ -5,15 +5,6 @@
 ### Get the data
 For this lab, we will continue using the .csv file and the Jupyter notebook that you have been using all week.
 
-Remember the previous rounds. Follow the steps as shown in previous lectures and try to improve the accuracy of the model. Include both categorical columns in the exercise.
-Some approaches you can try in this exercise:
-
-- use the concept of multicollinearity and remove insignificant variables
-- use a different method of scaling the numerical variables
-- use a different ratio of train test split
-- use the transformation on numerical columns which align it more towards a normal distribution
-
-
 ### Dealing with the data
 
 Already done in previous rounds.
@@ -29,3 +20,10 @@ Already done.
 Description:
 
 - Try to improve the linear regression model.
+- Remember the previous rounds. Follow the steps as shown in previous lectures and try to improve the accuracy of the model.
+Some approaches you can try in this exercise:
+
+- use the concept of multicollinearity and remove insignificant variables
+- use a different method of scaling the numerical variables
+- use a different ratio of train test split
+- use the transformation on numerical columns which align it more towards a normal distribution
